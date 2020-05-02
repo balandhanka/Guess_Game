@@ -1,3 +1,6 @@
+# Usages
+python Guess_Game.py
+
 # Guess_Game
 This is a game based on random library in python.
 
